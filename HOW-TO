@@ -1,0 +1,3 @@
+HOW-TO
+------------
+After running pController, it automaticly starts to send informations about sliders vertical positions to the OSC receiver at localhost:5601. Each slider’s information can be read as a normalized (-1.0, 1.0) float number under the address /f# where # is number of the slider (/f0, /f1, /f2 ... /f#). The current version of the code contains 55 sliders (/f0-/f54).

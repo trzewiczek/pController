@@ -1,0 +1,17 @@
+INFO
+-------
+To start working with code of pController you have to install Andreas Schlegel’s oscP5 library (http://www.sojamo.de/libraries/oscP5/). To do that follow Processing how-to:
+
+Contributed libraries must be downloaded separately and placed within the "libraries" folder of your Processing sketchbook. To find the Processing sketchbook location on your computer, open the Preferences window from the Processing application and look for the "Sketchbook location" item at the top. Copy the contributed library's folder into the "libraries" folder at this location. You will need to create the "libraries" folder if this is your first contributed library. Follow the links below for more information about each library.
+
+
+LICENSE NOTES
+------------------------
+oscP5 library is distributed under GNU LGPL v.2.0 licence.
+pController is licensed under the Open Software License (OSL 3.0).
+
+
+CONTACTS
+-----------------
+You can find contact to Andreas Schlegel - the author of the oscP5 library - on his website: http://www.sojamo.de/
+You can find contact to Krzysztof Trzewiczek - the author of pController - on his website: http://trzewiczek.info/soft
